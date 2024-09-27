@@ -11,3 +11,25 @@ Alter: Modifica a estrutura de objetos eistentes
 Exemplo de Create: 
 CREATE TABLE Clientes (
 Cliente_id 
+
+
+
+
+
+
+
+
+PALAVRAS-CHAVES da DML SQL
+
+SELECT: Recupera dados de uma tabela.
+INSERT INTO: Insere novos dados em uma tabela.
+UPDATE: Modifica dados existentes em uma tabela.
+DELETE: Remove dados de tabela
+
+Exemplo:
+
+Select nova_coluna1, nova coluna2
+FROM nome_tabela;
+
+INSERT INTO nova_coluna1
+VALUES (valor1, valor2);
