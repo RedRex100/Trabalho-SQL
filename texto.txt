@@ -1,3 +1,13 @@
 e-mail trabalho mmodle meia noite quirino
 entrega trabalho spo sql
 telegram
+
+DDL
+
+Create: cria novos objetos no banco de dados, tabelas, indíces
+Alter: Modifica a estrutura de objetos eistentes
+
+
+Exemplo de Create: 
+CREATE TABLE Clientes (
+Cliente_id 
